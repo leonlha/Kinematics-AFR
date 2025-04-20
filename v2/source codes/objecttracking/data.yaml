@@ -1,0 +1,8 @@
+train: C:\Users\s220082\Deep_Learning_Projects\tool_segmentation\new_dataset\train\images
+
+val: C:\Users\s220082\Deep_Learning_Projects\tool_segmentation\new_dataset\val\images
+
+test: C:\Users\s220082\Deep_Learning_Projects\tool_segmentation\new_dataset\test\images
+
+nc: 16
+names: ['instrument3part1','instrument3part2','instrument3part3','instrument2part3','instrument2part2','instrument2part1','laptool','instrument4part1','instrument1part1','instrument1part2','instrument1part3','instrument4part2','instrument5part3','instrument5part2','instrument5part1','instrument4part3']
