@@ -1,19 +1,18 @@
-# Efficient Frame Extraction: A Novel Approach Through Frame Similarity and Surgical Tool Tracking for Video Segmentation
-This repository contains source codes for the [paper](https://arxiv.org/pdf/2501.11153).
+# Kinematic Adaptive Frame Recognition (KAFR): A Novel Framework for Video Segmentation via Frame Similarity and Surgical Tool Tracking
+This repository contains source codes for the [paper](https://ieeexplore.ieee.org/document/11014513).
 
 ## Citation
 ```BibTeX
 @ARTICLE{11014513,
-  author={Nguyen, Huu Phong and Khairnar, Shekhar Madhav and Palacios, Sofia Garces and Al-Abbas, Amr and Hogg, Melissa E. and Zureikat, Amer H. and Polanco, Patricio M. and Zeh, Herbert and Sankaranarayanan, Ganesh},
+  author={Nguyen, Huu Phong and Khairnar, Shekhar Madhav and Palacios, Sofia Garces and Al-Abbas, Amr and Hogg, Melissa E. and Zureikat, Amer H. and Polanco, Patricio M. and Zeh, Herbert J. and Sankaranarayanan, Ganesh},
   journal={IEEE Access}, 
-  title={Efficient Frame Extraction: A Novel Approach Through Frame Similarity and Surgical Tool Tracking for Video Segmentation}, 
+  title={Kinematic Adaptive Frame Recognition (KAFR): A Novel Framework for Video Segmentation via Frame Similarity and Surgical Tool Tracking}, 
   year={2025},
-  volume={},
+  volume={13},
   number={},
-  pages={1-1},
-  keywords={Surgery;Data models;Convolutional neural networks;Artificial intelligence;Hidden Markov models;Training;Deep learning;Computer architecture;Adaptation models;Accuracy;Adaptive Frame Recognition;Surgical Phase Segmentation;Tool Tracking;Convolutional Neural Networks;Deep Learning},
+  pages={101681-101697},
+  keywords={Surgery;Data models;Convolutional neural networks;Artificial intelligence;Hidden Markov models;Training;Deep learning;Computer architecture;Adaptation models;Accuracy;Adaptive frame recognition;surgical phase segmentation;tool tracking;convolutional neural networks;deep learning},
   doi={10.1109/ACCESS.2025.3573264}}
-}
 ```
 
 ## Contact for Issues
